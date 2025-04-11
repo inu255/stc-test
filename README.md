@@ -2,4 +2,6 @@
 
 ## Запуск
 
-Сначала `npm i`, затем `npm start`
+Сначала `npm i`, затем `npm start`.
+
+Или можно посмотреть, не скачивая: https://inu255.github.io/stc-test/
